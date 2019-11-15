@@ -17,13 +17,13 @@
 
 ```
   {
-    "id": 9923,
-    "created": 1389618241,
-    "paid": true,
-    "amount": 4900,
-    "currency": "usd",
-    "refunded": false,
-    "customer_id" : 123
+    "id",
+    "created",
+    "paid",
+    "amount",
+    "currency",
+    "refunded",
+    "customer_id"
   }
 ```
 
@@ -34,22 +34,6 @@
 *The charge object has a customer property, this property is the customer id from the customer model.*
 
 ##### Seed 4 Customers into the system
-    Customer 1: 
-      First Name: Johny 
-      Last Name: Flow
-
-    Customer 2: 
-      First Name: Raj
-      Last Name: Jamnis
-
-    Customer 3: 
-      First Name: Andrew
-      Last Name: Chung
-
-    Customer 4: 
-      First Name: Mike
-      Last Name: Smith
-
   
 ##### Seed 15 charges (charges) into the system
 
