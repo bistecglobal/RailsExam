@@ -13,7 +13,7 @@
 
 - Fork this repository
 - Create directory challenge
-- In the *challenge* directory, scaffold a simple Rails 4 web app that models a credit card charge. JSON data structure below: 
+- In the *challenge* directory, scaffold a simple Rails 5 or above web app that models a credit card charge. JSON data structure below: 
 
 ```
   {
